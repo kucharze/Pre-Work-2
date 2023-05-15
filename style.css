@@ -1,0 +1,23 @@
+html,
+body {
+    padding-top: 35px;
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+    color: blue;
+    font-size: 40px;
+}
+
+button{
+  height: 100px;
+  width: 250px;
+  font-size: 40px;
+  background-color: darkgray;
+  color: gold;
+}
+
+input{
+  height: 60px;
+  font-size: 50px;
+  color: darkblue;
+}
