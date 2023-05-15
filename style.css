@@ -3,17 +3,21 @@ body {
     padding-top: 35px;
     height: 100%;
     width: 100%;
-    background-color: lightblue;
+    background-color: lightgreen;
     color: blue;
     font-size: 40px;
+}
+
+p{
+  color: darkgreen;
 }
 
 button{
   height: 100px;
   width: 250px;
   font-size: 40px;
-  background-color: darkgray;
-  color: yellow;
+  background-color: black;
+  color: gold;
 }
 
 input{
